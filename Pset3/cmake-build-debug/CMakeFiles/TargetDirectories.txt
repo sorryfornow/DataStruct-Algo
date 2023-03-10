@@ -1,0 +1,3 @@
+/Users/siqingzhang/Desktop/COMP9024/Pset3/cmake-build-debug/CMakeFiles/Pset3.dir
+/Users/siqingzhang/Desktop/COMP9024/Pset3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/siqingzhang/Desktop/COMP9024/Pset3/cmake-build-debug/CMakeFiles/rebuild_cache.dir

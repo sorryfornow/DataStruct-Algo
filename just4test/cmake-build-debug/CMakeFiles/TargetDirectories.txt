@@ -1,0 +1,3 @@
+/Users/siqingzhang/Desktop/COMP9024/just4test/cmake-build-debug/CMakeFiles/just4test.dir
+/Users/siqingzhang/Desktop/COMP9024/just4test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/siqingzhang/Desktop/COMP9024/just4test/cmake-build-debug/CMakeFiles/rebuild_cache.dir

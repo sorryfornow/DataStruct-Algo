@@ -1,0 +1,3 @@
+/Users/siqingzhang/Desktop/COMP9024/week8/cmake-build-debug/CMakeFiles/week8.dir
+/Users/siqingzhang/Desktop/COMP9024/week8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/siqingzhang/Desktop/COMP9024/week8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
